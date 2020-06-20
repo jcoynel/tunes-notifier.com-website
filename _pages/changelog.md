@@ -5,61 +5,119 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
-<br>
+## Version 2.0.11
+`19 June 2020`
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+- Clarify song information may be missing when playing on external device, unless using AirPlay 2
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## Version 2.0.10
+`15 April 2020`
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Fix blank notification when Spotify doesn't provide song information, usually when playing to an external device
 
-<br>
+## Version 2.0.9
+`17 February 2019`
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- Fix album artwork not showing
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## Version 2.0.8
+`5 February 2019`
 
-<br>
+- Optimised for macOS Mojave
 
-________
-<br>
+## Version 2.0.7
+`31 December 2017`
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+- Minor improvements
 
-<br>
+## Version 2.0.6
+`26 June 2017`
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- Add current song info to menu bar
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## Version 2.0.5
+`25 June 2017`
 
-<br>
+- Fix artwork images not loading
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+## Version 2.0.4
+`13 September 2016`
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Add support for macOS Sierra (10.12)
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+## Version 2.0.3
+`11 May 2016`
 
-<br>
+- Fix a crash affecting old versions of Spotify
+
+## Version 2.0.2
+`9 April 2016`
+
+- Restore support for OS X Yosemite (10.10)
+
+## Version 2.0.1
+`1 April 2016`
+
+- Fix incorrect analytics values
+
+## Version 2.0.0
+`26 March 2016`
+
+- Song artwork visible in notifications
+- New app icon
+- New menu bar icon for "Dark menu bar"
+- No more messages asking you to rate the app
+- OS X El Capitan required
+
+## Version 1.6.1
+`20 March 2015`
+
+- Fix for Spotify 1.0.1.1060
+
+## Version 1.6.0
+`20 May 2014`
+
+- Remove iTunes support (as notifications are now natively supported by iTunes)
+- Remove current song info from menu bar (to keep the app minimal)
+
+## Version 1.5.0
+`28 July 2013`
+
+- Add the current song artwork, title, album and artist in the menu bar
+
+## Version 1.4.0
+`6 May 2013`
+
+- Notifications for songs played from radio stations in iTunes
+
+## Version 1.3.0
+`8 January 2013`
+
+- Spotify support
+- Reduced processor usage
+
+## Version 1.2.0
+`14 November 2012`
+
+- Japanese language support
+- Spanish language support
+- Danish language support
+- Portuguese language support
+- German language support
+- Turkish language support
+- Clean up all notifications when closing Tunes Notifier
+- Various improvements
+
+## Version 1.1.0
+`18 October 2012`
+
+- New menu bar icon available in colour and in monochrome
+- Menu icon can be removed temporarily or permanently from menu bar
+- New shortcuts
+- Finnish language support
+
+## Version 1.0.0
+`25 September 2012`
+
+- Initial version
