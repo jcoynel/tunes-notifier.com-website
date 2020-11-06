@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.12
+`06 November 2020`
+
+- Improved support for macOS 11 and Apple Silicon
+- The issue preventing song information from being displayed by Tunes Notifier when playing on external devices has been fixed in latest versions of Spotify
+
 ## Version 2.0.11
 `19 June 2020`
 
