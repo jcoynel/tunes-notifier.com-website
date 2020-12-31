@@ -46,7 +46,7 @@ features                                  :
     description                           : Forget about the app, let it do it's magic in the background
     fontawesome_icon_name                 : magic
 
-  - title                                 : Descreet
+  - title                                 : Discreet
     description                           : Does not appear in the Dock, can be hidden from the menu bar
     fontawesome_icon_name                 : eye-slash
     
