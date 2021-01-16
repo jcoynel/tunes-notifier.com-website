@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.13
+`16 January 2021`
+
+- Fix a bug that could cause the application to crash
+
 ## Version 2.0.12
 `06 November 2020`
 
