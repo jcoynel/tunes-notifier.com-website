@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.14
+`14 April 2021`
+
+- New app icon for macOS Big Sur
+
 ## Version 2.0.13
 `16 January 2021`
 
