@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.15
+`04 January 2022`
+
+- Compatibility update for macOS Monterey
+
 ## Version 2.0.14
 `14 April 2021`
 
