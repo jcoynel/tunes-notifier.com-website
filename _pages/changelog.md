@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.16
+`02 January 2023`
+
+- Compatibility update for macOS Ventura
+
 ## Version 2.0.15
 `04 January 2022`
 
