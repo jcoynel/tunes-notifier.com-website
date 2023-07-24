@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : language
     
   - title                                 : Requirements
-    description                           : Spotify and macOS 10.14 or later
+    description                           : Spotify and macOS 13.0 or later
     fontawesome_icon_name                 : info-circle
     
 
