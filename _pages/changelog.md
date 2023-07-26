@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ## Version 2.0.17
-`24 July 2023`
+`26 July 2023`
 
 - Minor improvements
 
