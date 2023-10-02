@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.19
+`02 October 2023`
+
+- Compatibility update for macOS Sonoma
+
 ## Version 2.0.18
 `11 September 2023`
 
