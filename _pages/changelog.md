@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.21
+`24 November 2024`
+
+- Compatibility update for macOS Sequoia
+
 ## Version 2.0.20
 `09 February 2024`
 
