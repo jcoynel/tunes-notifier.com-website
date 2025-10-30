@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## Version 2.0.22
+`30 October 2025`
+
+- Compatibility update for macOS Tahoe
+
 ## Version 2.0.21
 `24 November 2024`
 
